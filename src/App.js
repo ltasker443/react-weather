@@ -11,7 +11,7 @@ function App() {
 
         <p id="github-link">
           <a
-            href="https://github.com/ltasker443/weather-react"
+            href="https://github.com/ltasker443/react-weather"
             target="blank"
             id="github-link"
             >Open-source</a> by Laura Tasker
