@@ -1,0 +1,38 @@
+.enter-city,
+.btn {
+    border: 2px solid #606470;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 10px;
+    color: #606470;
+    font-weight: 700;
+}
+
+.card {
+    border: 2px solid #9cd3d3;
+    border-radius: 10px;
+    font-weight: 600px;
+    max-width: 50%;
+    display: block;
+    margin: 0 auto;
+    background: radial-gradient(circle at 10% 20%, rgba(91, 173, 254, 0.46) 0%, rgba(91, 224, 254, 0.46) 47.2%, rgba(170, 254, 235, 0.43) 90%);
+}
+
+.city-name {
+    color: #fff;
+    text-align: center;
+    margin-top: 10px;
+    padding: 0;
+    font-size: 26px;
+    font-weight: 900;
+}
+
+ul {
+    list-style-type: none;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+    padding: 0;
+    margin: 0;
+}
